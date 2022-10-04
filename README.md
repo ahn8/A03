@@ -1,16 +1,29 @@
-Create your account on GitHub.
-Install GitHub to your personal Pc. 
-Create your account on webstorm and sign up for your free license.
-Install webstorm and git to your PC. 
-Create your own repository on GitHub. 
-Connect GitHub with webstorm by pressing (Ctrl+Alt+S) on Webstorm. 
-Select Version Control git and enter the path to the git executable. 
-Add GitHub password to webstorm by going to Appearance and Behavior, System Setting, Password, then hit ok on the bottom. 
-Select VCS and import your repository to Version control. 
-Create your Webstorm file by choosing your file.
-Add files to Git by clicking the "Add to Git" dialog and clicking "Add".
-Commit your Changes
-Push your remote repository by going to VCS, Git, and Push.
+1.Create your account on GitHub.
+
+2.Install GitHub to your personal Pc. 
+
+3.Create your account on webstorm and sign up for your free license.
+
+4.Install webstorm and git to your PC. 
+
+5.Create your own repository on GitHub. 
+
+6.Connect GitHub with webstorm by pressing (Ctrl+Alt+S) on Webstorm. 
+
+7.Select Version Control git and enter the path to the git executable. 
+
+8.Add GitHub password to webstorm by going to Appearance and Behavior, System Setting, Password, then hit ok on the bottom. 
+
+9.Select VCS and import your repository to Version control. 
+
+10.Create your Webstorm file by choosing your file.
+
+11.Add files to Git by clicking the "Add to Git" dialog and clicking "Add".
+
+12.Commit your Changes
+
+13.Push your remote repository by going to VCS, Git, and Push.
+
 **Branch**-A copy of a code line managed in a VCS. 
 **Clone**-Creating a copy of a web format to create a new website.
 **Commit**-When you are making the changes you made to code or writing permanent. 
